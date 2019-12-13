@@ -4,7 +4,7 @@
 
 [Vídeo](https://www.youtube.com/watch?v=fSF2_3fO8mE)
 
-[binder]: https://mybinder.org/v2/gh/luizirber/2019-12-13-pyjamas/master?urlpath=%2Flab
+[binder]: https://mybinder.org/v2/gh/luizirber/2019-12-13-pyjamas/master?filepath=index.ipynb
 
 ## Descrição
 
@@ -39,7 +39,7 @@ Vamos usar [conda][0] para gerenciar pacotes nesse exemplo.
 Para criar um ambiente com as versões corretas rode
 
 ```bash
-conda env create --force --file environment.yml
+conda env create --force --file binder/environment.yml
 
 conda activate pyjamas
 ```
