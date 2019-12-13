@@ -1,7 +1,10 @@
 # Organizando sua análise de dados com Snakemake
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luizirber/2019-12-13-pyjamas/master)
+[![Binder](https://mybinder.org/badge_logo.svg)][binder]
+
 [Vídeo](https://www.youtube.com/watch?v=fSF2_3fO8mE)
+
+[binder]: https://mybinder.org/v2/gh/luizirber/2019-12-13-pyjamas/master?urlpath=%2Flab
 
 ## Descrição
 
@@ -23,6 +26,14 @@ E, principalmente: snakemake é Python,
 e você pode usar qualquer pacote ou definir suas próprias funções para guiar a sua análise!
 
 ## Configurando esse repositório
+
+### Online
+
+Esse repositório pode ser usado diretamente no Binder,
+um serviço que inicializa um ambiente pronto para ser usado no seu browser.
+Clique no botão para acessar: [![Binder](https://mybinder.org/badge_logo.svg)][binder]
+
+### Localmente
 
 Vamos usar [conda][0] para gerenciar pacotes nesse exemplo.
 Para criar um ambiente com as versões corretas rode

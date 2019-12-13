@@ -6,3 +6,8 @@ channels:
 dependencies:
   - python=3.7.3
   - snakemake-minimal=5.8.1
+  - rise
+  - pip
+  - sourmash=2.3.0
+  - pip:
+    - jupyter-contrib-nbextensions
