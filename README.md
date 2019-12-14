@@ -4,7 +4,7 @@
 
 [Vídeo](https://www.youtube.com/watch?v=fSF2_3fO8mE)
 
-[binder]: https://binder.pangeo.io/v2/gh/luizirber/2019-12-13-pyjamas/master?filepath=index.ipynb
+[binder]: https://binder.pangeo.io/v2/gh/luizirber/2019-12-13-pyjamas/master?urlpath=%2Flab
 
 ## Descrição
 
